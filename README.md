@@ -1,8 +1,8 @@
-﻿#Vélos de vieux
+﻿# Vélos de vieux
 
 Ces explications ne valent que pour un utilisateur ayant un système d'exploitation UNIX. Ce logiciel n'a PAS été testé sur d'autres systèmes d'exploitation.
 
-##Installation
+## Installation
 
 Afin que l'application puisse s'installer et fonctionner correctement, veuillez vérifier que les paquets suivants soient installés :
 
@@ -17,11 +17,11 @@ Si vous avez déjà installé ce paquet et entré un différent mot de passe pou
 
 _Pour remettre votre mot de passe habituel, remplacez seulement "rootsql" par celui-ci dans la commande ci-dessus._
 
-##Compilation de l'application
+## Compilation de l'application
 
 **TO DO**
 **Cliquez (clic droit) sur le dossier décompressé -> Ouvrir dans un terminal -> commande `make``-> lancement d'un script de création d'icône sur le Bureau ou lancement du programme depuis le terminal**
 
-##Problèmes rencontrés
+## Problèmes rencontrés
 
 En cas de problème non expliqué précédemment, veuillez détailler celui-ci à l'adresse mail suivante : tao.grolleau@gmail.com

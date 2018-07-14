@@ -1,0 +1,5 @@
+INCF=-I/usr/include/mysql
+LNKF=-L/usr/lib/i386-linux-gnu -lmysqlclient -lpthread -lz -lm -lrt -ldl
+
+programme:
+	gcc -Wall main.c -o Programme $(INCF) $(LNKF)

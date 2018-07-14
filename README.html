@@ -1,0 +1,29 @@
+﻿<h1 id="vélos-de-vieux">Vélos de vieux</h1>
+
+<p>Ces explications ne valent que pour un utilisateur ayant un système d’exploitation UNIX. Ce logiciel n’a PAS été testé sur d’autres systèmes d’exploitation.</p>
+
+<h2 id="installation">Installation</h2>
+
+<p>Afin que l’application puisse s’installer et fonctionner correctement, veuillez vérifier que les paquets suivants soient installés :</p>
+
+<ul>
+<li><code>libmysqlclient-dev</code></li>
+<li><code>mysql-client</code></li>
+<li><code>mysql-server</code></li>
+</ul>
+
+<p>Lors de l’installation de <code>mysql-server</code>, au moment du choix du mot de passe de l’utilisateur ‘root’, entrez “rootsql” comme mot de passe.</p>
+
+<p>Si vous avez déjà installé ce paquet et entré un différent mot de passe pour l’utilisateur ‘root’, merci de bien vouloir changer celui-ci grâce à cette commande (après vous être connecté à votre base de données) :  <br>
+<code>UPDATE user SET password=PASSWORD("rootsql") WHERE user='root' ;</code></p>
+
+<p><em>Pour remettre votre mot de passe habituel, remplacez seulement “rootsql” par celui-ci dans la commande ci-dessus.</em></p>
+
+<h2 id="compilation-de-lapplication">Compilation de l’application</h2>
+
+<p><strong>TO DO</strong> <br>
+<strong>Cliquez (clic droit) sur le dossier décompressé -&gt; Ouvrir dans un terminal -&gt; commande `make“-&gt; lancement d’un script de création d’icône sur le Bureau ou lancement du programme depuis le terminal</strong></p>
+
+<h2 id="problèmes-rencontrés">Problèmes rencontrés</h2>
+
+<p>En cas de problème non expliqué précédemment, veuillez détailler celui-ci à l’adresse mail suivante : tao.grolleau@gmail.com</p>
