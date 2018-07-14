@@ -17,6 +17,8 @@ Si vous avez déjà installé ce paquet et entré un différent mot de passe pou
 
 _Pour remettre votre mot de passe habituel, remplacez seulement "rootsql" par celui-ci dans la commande ci-dessus._
 
+Cette application utilise la bibliothèque MLV-2.0.2 afin de fonctionner correctement. Si celle-ci n'est pas installée, veuillez le faire grâce à [ce site.](http://www-igm.univ-mlv.fr/~boussica/mlv/api/French/html/installation_linux.html)
+
 ## Compilation de l'application
 
 **TO DO**
