@@ -13,4 +13,3 @@ clean:
 
 exec:
 	./bin/Programme 2> error.log
-

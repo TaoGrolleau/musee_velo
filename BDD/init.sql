@@ -19,3 +19,4 @@ create table Velo (
 insert into Velo values (1, "Grolleau", "Tao", 0, "", "étudiant", "fac", "travail", 0, "SM", "bon", "", "");
 insert into Velo values (2, "Grolleau", "Sami", 0, "", "étudiant", "fac", "loisir", 1, "SM", "excellent", "", "");
 insert into Velo values (3, "Grolleau", "Marc", 0, "", "libraire", "Librairie Et Caetera", "loisir", 0, "Cazenac", "mauvais", "", "");
+
