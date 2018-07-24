@@ -17,13 +17,23 @@ Si vous avez déjà installé ce paquet et entré un différent mot de passe pou
 
 _Pour remettre votre mot de passe habituel, remplacez seulement "rootsql" par celui-ci dans la commande ci-dessus._
 
+<<<<<<< HEAD
 Cette application utilise la bibliothèque MLV-2.0.2 afin de fonctionner correctement. Si celle-ci n'est pas installée, veuillez le faire grâce à [ce site.](http://www-igm.univ-mlv.fr/~boussica/mlv/api/French/html/installation_linux.html)
 
 ## Compilation de l'application
+=======
+##Compilation de l'application
+>>>>>>> 44cf6cecd69f442f5568419beb1cd1ce54f57eb6
 
 **TO DO**
 **Cliquez (clic droit) sur le dossier décompressé -> Ouvrir dans un terminal -> commande `make``-> lancement d'un script de création d'icône sur le Bureau ou lancement du programme depuis le terminal**
 
+<<<<<<< HEAD
 ## Problèmes rencontrés
 
 En cas de problème non expliqué précédemment, veuillez détailler celui-ci à l'adresse mail suivante : tao.grolleau@gmail.com
+=======
+##Problèmes rencontrés
+
+En cas de problème non expliqué précédemment, veuillez détailler celui-ci à l'adresse mail suivante : tao.grolleau@gmail.com
+>>>>>>> 44cf6cecd69f442f5568419beb1cd1ce54f57eb6
