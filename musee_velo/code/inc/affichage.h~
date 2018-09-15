@@ -1,0 +1,30 @@
+#ifndef _AFFICH_H_
+#define _AFFICH_H_
+
+#include <MLV/MLV_all.h>
+
+
+/* Crée une fenêtre de la taille de l'écran, et l'initialise à la couleur blanche. */
+void init_fenetre();
+
+/* Affiche la page d'erreur au cours de la connection à la BDD. */
+void affich_text_err_connec();
+
+/* Affiche la page d'erreur au cours de la requête sur le nom de la personne. */
+void affich_text_err_nom_bdd();
+
+/* Affiche la page pour demander le nom de la personne à l'utilisateur. */
+char* affich_demande();
+
+/* Affiche la réponse de la requête si il y a un seul résultat. */
+void affich_resultat(char* chaine);
+
+/* Affiche les différentes réponses de la requête si il y a plusieurs résultats. */
+void affich_resultat_ligne(char* chaine, int y);
+
+/* Affiche la page pour demander le prénom de la personne à l'utilisateur. */
+char* affich_demande_prenom ();
+
+/* Affiche la page d'erreur si le prénom est incorrect. */
+void affich_text_err_prenom_bdd();
+#endif

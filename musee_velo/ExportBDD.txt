@@ -1,0 +1,556 @@
+numero	nom	prenom	image	texte
+1	Mano	Julie	Dame	Julie Mano était cultivatrice et veuve. Elle possédait une bicyclette sans marque, en mauvais état.
+2	Mano	Robert	Homme	Robert Mano était cultivateur. Il se servait d'un vélo sans marque, en mauvais état.
+3	Bristaut	Ad.	Dame	Mme Veuve Ad. Bristaut achetait des poteaux de mine pour les établissements Delest. Elle utilisait pour ses visites aux clients une bicyclette de marque inconnue, en bon état.
+4	Lévêque	Emile	Dame	Emile Lévêque était maçon. Il se servait d'un vélo de dame de marque inconnue, en bon état. Il était aussi pompier volontaire.
+5	Dupuch	Alfred	Dilecta	Alfred Dupuch était courtier en assurances. Il utilisait pour ses encaissements un vélo de marque Dilecta, en état passable.
+6	Faucouneau	Marie	Dame	Marie Faucouneau était cultivatrice et veuve. Elle utilisait pour son ravitaillement une bicyclette sans marque, en mauvais état.
+7	Tastet	Mathieu	Homme	Mathieu Tastet était résinier. Il utilisait pour son travail une bicyclette sans marque, en mauvais état.
+8	Tastet	Marie	Dame	Marie Tastet était cultivatrice. Elle se servait d'une bicyclette Dame, en mauvais état.
+9	Hérard-Dubreuil	Dominique	Homme	Dominique Hérard-Dubreuil était propriétaire. Il utilisait pour les visites de ses propriétés un vélo de marque inconnue, en état passable.
+10	Hérard-Dubreuil	Mme	Cazenave	Mme Hérard-Dubreuil était propriétaire. Elle se déplaçait avec une bicyclette de marque Cazenave, en état passable.
+11	Balaresque	Marguerite	Cazenave	Marguerite Balaresque est déclarée sans profession. Elle faisait ses commissions avec une bicyclette de marque Cazenave, en état médiocre.
+12	Capdepy	Germaine	Dame	Germaine Capdepy était femme de chambre. Elle utilisait pour ses courses une bicyclette sans marque, en mauvais état.
+13	Castets	Lucienne	Dame	Lucienne Castets était cuisinière. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+14	Castets	Marie	Dame	Marie Castets était bonne à tout faire. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+15	Du Boulay	M.	Cazenave	M. Du Boulay était propriétaire. Il utilisait pour les visites de ses propriétés un vélo de marque Cazenave, en bon état.
+16	Du Boulay	Mme A.	Cazenave	Mme A. Du Boulay était propriétaire. Elle utilisait pour les visites de ses propriétés une bicyclette de marque Cazenave, en bon état.
+17	Ballion	Georges	Homme	Georges Ballion était garde particulier. Il utilisait pour ses visites de propriétés un vélo sans marque, en mauvais état.
+18	Dubourg	Louis	Dainty	Louis Dubourg était régisseur. Il utilisait pour ses visites de propriétés un vélo de marque Dainthy, en état médiocre.
+19	Dulas	Ferdinand	Dilecta	Ferdinand Dulas était résinier. Il utilisait pour son travail un vélo de marque Dilecta, en état médiocre.
+20	Balaresque	Gérard	Souleyreau	Gérard Balaresque était propriétaire. Il utilisait pour les visites de ses propriétés un vélo de marque Souleyreau, en état passable.
+21	Dumora	Henri	Cazenave	Henri Dumora était chauffeur à la Société minière d'Hostens, à 14 km. Il se servait d'un vélo de marque Cazenave, en état médiocre.
+22	Dumora	Denise	Cazenave	Denise Dumora est déclarée sans profession. Elle se déplaçait avec une bicyclette de marque Cazenave, en état passable.
+23	Dulas	Adrien	Wonder1	Adrien Dulas était encaisseur à la Régie syndicale d'électricité. Il utilisait un vélo de marque Wonder, en état médiocre.
+24	Boyrie	Henri	Titanic	Henri Boyrie, prisonnier en congé de captivité, était bûcheron. Il possédait un vélo de marque Titanic, en état passable.
+25	Boyrie	Renée	Wolber	Renée Boyrie était cultivatrice. Elle possédait une bicyclette de marque Wolber, en état passable.
+26	Dupuy	Henriette	Dame	Henriette Dupuy était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état passable.
+27	Nolibois	René	Terrot1	René Nolibois était peintre. Il allait au travail sur un vélo de marque Terrot, en état médiocre.
+28	Courbin	Solange	Cazenave	Solange Courbin était ecolière. Elle utilisait pour se rendre à salles une bicyclette de marque Cazenave, en bon état.
+29	Dupart	Kléber	Dilecta	Kléber Dupart était scieur pour l'organisation Todt. Il allait au travail sur un vélo de marque Dilecta, en bon état. Il était aussi pompier volontaire.
+30	Chot	Louis	Homme	Louis Chot était manœuvre. Il se servait d'un vélo sans marque, usagé.
+31	Chot	Marie	Dame	Marie Chot était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+32	Rablade	Robert	Dilecta	Robert Rablade, prisonnier en congé de captivité, était cultivateur. Il se servait d'un vélo de marque Dilecta, en bon état.
+33	Rablade	Elise	Terrot1	Elise Rablade était cultivatrice. Elle possédait une bicyclette de marque Terrot, en bon état.
+34	Dupertout	Armand	Homme	Armand Dupertout était laitier. Il utilisait pour son ramassage un vélo de marque Valmy, usagé.
+35	Dupertout	Madeleine	Dorillac	Madeleine Dupertout était laitière. Elle utilisait pour sle ramassage une bicyclette de marque Dorillac, en bon état.
+36	Chaubit	Maurice	Peugeot1	Maurice Chaubit était résinier. Il utilisait pour son travail un vélo de marque Peugeot, en état passable.
+37	Chaubit	Marie	Dame	Marie Chaubit était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+38	Chaubit	Mauricette	Astra	Mauricette Chaubit était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Astra, en bon état.
+39	Faucouneau	Ismaël	Cazenave	Ismaël Faucouneau était manoeuvre à la scierie Delage. Il se servait d'un vélo de marque Cazenave, en état passable.
+40	Faucouneau	Germaine	Dame	Germaine Faucouneau était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+41	Dupuch	Paul	Homme	Paul Dupuch était résinier. Il utilisait pour son travail un vélo sans marque, en état passable.
+42	Dupuch	Emilie	Dame	Emilie Dupuch était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état passable.
+43	Gimenez	Elie	Homme	Elie Gimenez était ouvrier forestier. Il allait au travail sur un vélo sans marque, en état passable.
+44	Gimenez	Pauline	Dame	Pauline Gimenez était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état passable.
+45	Hazera	Jean	Cazenave	Jean Hazera était mouleur. Il allait au travail sur un vélo de marque Cazenave, en état passable.
+46	Hazera	Henriette	Cazenave	Henriette Hazera était cultivatrice. Elle se déplaçait avec une bicyclette de marque Cazenave, en bon état.
+47	Dubos	Henri	Cazenave	Henri Dubos était résinier. Il utilisait pour son travail un vélo de marque Cazenave, en bon état.
+48	Lapios	Paul	Homme	Paul Lapios était propriétaire. Il utilisait pour les visites de ses propriétés un vélo de marque inconnue, en bon état.
+49	Michelet	André	Homme	André Michelet était ouvrier d'usine. Il allait au travail sur un vélo de marque inconnue, en bon état. Il était aussi pompier volontaire.
+50	Michelet	Marthe	Cazenave	Marthe Michelet était institutrice. Elle se déplaçait avec une bicyclette de marque Cazenave, en bon état.
+51	Lescarret	Eugène	Cazenave	Eugène Lescarret était résinier. Il utilisait pour son travail un vélo de marque Cazenave, en état passable.
+52	Lescarret	Dumorine	Cazenave	Dumorine Lescarret était cultivatrice. Elle se déplaçait avec une bicyclette de marque Cazenave, en état passable.
+53	Dézert	Camille	Cazenave	Camille Dézert était mécanicien. Il allait au travail sur un vélo de marque Cazenave, en état passable. Il était aussi pompier volontaire.
+54	Dézert	Simone	Elcé	Simone Dézert est déclarée sans profession. Elle se déplaçait avec une bicyclette de marque Elcé, en état médiocre.
+55	Duprat	Jules	Cazenave	Jules Duprat était jardinier. Il se déplaçait avec un vélo de marque Cazenave, en bon état.
+56	Duprat	Marthe	Cazenave	Marthe Duprat était cultivatrice. Elle se déplaçait avec une bicyclette de marque Cazenave, en état médiocre.
+57	Duprat	Jean	Cazenave	Jean Duprat était mécanicien chez Cazenave. Il roulait sur un vélo de marque Cazenave, en bon état.
+58	Marceron	Roger	Cazenave	Roger Marceron était résinier. Il utilisait pour son travail un vélo de marque Cazenave, en état médiocre.
+59	Marceron	Marc	Cazenave	Marc Marceron était monteur chez Cazenave. Il roulait sur un vélo de marque Cazenave, en bon état.
+60	Marceron	Marthe	Dame	Marthe Marceron était cultivatrice. Elle se déplaçait avec une bicyclette de marque Delty, en état médiocre.
+61	Raba	Jean	Cazenave	Jean Raba était industriel. Il utilisait pour ses affaires un vélo de marque Cazenave, en état passable.
+62	Raba	Marie-Louise	Cazenave	Marie-Louise Raba est déclarée sans profession. Elle se déplaçait avec une bicyclette de marque Cazenave, en bon état.
+63	Aveneau	Clément	Homme	Clément Aveneau était ouvrier à la scierie Delage. Il allait au travail sur un vélo sans marque, en état médiocre.
+64	Aveneau	Reine	Homme	Reine Aveneau était ouvrier de scierie. Elle allait au travail sur une bicyclette homme sans marque, en état médiocre.
+65	Aveneau	Louise	Dame	Louise Aveneau était cultivatrice. Elle se déplaçait avec une bicyclette sans marque, en état médiocre.
+66	Lescarret	Marc	Cazenave	Marc Lescarret était médecin et propriétaire. Il utilisait pour ses visites un vélo de marque Cazenave, en état médiocre.
+67	Meyssan	Pierre	Cazenave	Pierre Meyssan était médecin et propriétaire. Il utilisait pour ses visitess un vélo de marque Cazenave, en bon état.
+68	Meyssan	M.	Cazenave	M. Meyssan était sans profession. Il s'occupait du Secours national. Il se déplaçait avec un vélo de dame de marque Cazenave, en bon état.
+69	Bassibey	Augustin	Cazenave	Augustin Bassibey était manœuvre. Il se servait d'un vélo de marque Cazenave, en mauvais état.
+70	Harriet	Alice	Cazenave	Alice Harriet était cuisinière. Elle se déplaçait avec une bicyclette de marque Cazenave, en mauvais état.
+71	Dupin	Paul	Souleyreau	Paul Dupin était résinier. Il utilisait pour son travail un vélo de marque Souleyreau, en état passable.
+72	Dupin	Yvonne	Dame	Yvonne Dupin était cultivatrice. Elle se servait d'une bicyclette sans marque, en bon état.
+73	Dupin	Marie	Souleyreau	Marie Dupin était cultivatrice. Elle se servait d'une bicyclette de marque Souleyreau, en mauvais état.
+74	Gellibert	Marthe	Roquebert	Marthe Gellibert était ouvrière d'usine à la scierie Delage. Elle allait au travail sur une bicyclette de marque Roquebert, en état passable.
+75	Dupin	Félix	Cazenave	Félix Dupin était charbonnier. Il possédait un vélo de marque Cazenave, en état passable.
+76	Gellibert	Alfred	Homme	Alfred Gellibert était charbonnier. Il possédait un vélo sans marque, en état médiocre.
+77	Gellibert	Félicia	Cazenave	Félicia Gellibert était cultivatrice. Elle se déplaçait avec une bicyclette de marque Cazenave, en état passable.
+78	Fronsac	Roger	Terrot1	Roger Fronsac était propriétaire. Il utilisait un vélo de dame de marque Terrot, en état passable.
+79	Fronsac	Lucie	Touring	Lucie Fronsac était cultivatrice. Elle possédait une bicyclette de marque Touring, en bon état.
+80	Bordessoules	Léa	Dame	Léa Bordessoules était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque inconnue, en état médiocre.
+81	DulasHenri	Dilecta	Henri Dulas était mu	NULL
+82	Dulas	Marie-Louise	Dame	Marie-Louise Dulas était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque inconnue, en état passable.
+83	Citrain	Paul	Cazenave	Paul Citrain était chef cantonnier aux Ponts-et-Chaussées. Il se servait d'un vélo de marque Cazenave, en bon état.
+84	Fronsac	Hector	Orion	Hector Fronsac était propriétaire et syndic forestier. Il utilisait un vélo de marque Orion, en état médiocre.
+85	Fronsac	Henriette	Terrot2	Henriette Fronsac était cultivatrice. Elle possédait une bicyclette de marque Terrot, en état passable.
+86	Teilhet	Maurice	Cazenave	Maurice Teilhet était vannier. Il utilisait pour les visites à sa clientèle un vélo de dame de marque Cazenave, en bon état.
+87	Dulas	Jules	Dame	Jules Dulas était manoeuvre à la tuilerie Domecq. Il se servait d'un vélo de dame sans marque, en état médiocre.
+88	Dulas	Madeleine	Dame	Madeleine Dulas était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+89	Dulas	Roger	Cazenave	Roger Dulas était manœuvre à la tuilerie Domecq. Il se servait d'un vélo de marque Cazenave, en état passable.
+90	Bourrec	Joseph	Homme	Joseph Bourrec était propriétaire. Il utilisait pour les visites de ses propriétés un vélo sans marque, en état médiocre.
+91	Bourrec	Charlotte	Cazenave	Charlotte Bourrec est déclarée sans profession. Elle faisait ses commissions avec une bicyclette de marque Cazenave, en état médiocre.
+92	Robillard	Thérèse	Terrot2	Thérèse Robillard est déclarée sans profession. Elle possédait une bicyclette de marque Terrot, en bon état.
+93	Dignan	André	Homme	André Dignan était ouvrier d'usine à la scierie Delage. Il allait au travail sur un vélo sans marque, en état passable.
+94	Dignan	Marcel	Homme	Marcel Dignan était ouvrier d'usine à la scierie Raba. Il allait au travail sur un vélo sans marque, en état passable.
+95	Dignan	Andréa	Dame	Andréa Dignan était ouvriére d'usine. Elle allait au travail sur une bicyclette sans marque, en état passable.
+96	Daugé	Jean	Cazenave	Jean Daugé était ouvrier d'usine chez usine de joué. Il allait au travail sur un vélo de marque Cazenave, en état passable.
+97	Roumégoux	Pierre	Homme	Pierre Roumégoux était propriétaire. résinier. Il utilisait pour son travail un vélo sans marque, en état passable.
+98	Roumégoux	Annie	Terrot1	Annie Roumégoux est déclarée sans profession. Elle possédait une bicyclette de marque Terrot, en état passable.
+99	Prioleau	Paul	Homme	Paul Prioleau était propriétaire et résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+100	Prioleau	Camille	Terrot2	Camille Prioleau était résinier. Il utilisait pour son travail un vélo de marque Terrot, en état passable.
+101	Prioleau	Denise	Dame	Denise Prioleau était cultivatrice. Elle possédait une bicyclette sans marque, en état passable.
+102	Duluc	Gérard	Homme	Gérard Duluc était manoeuvre à la fonderie. Il allait au travail sur un vélo sans marque, en état assez bon.
+103	Patrouilleau	Roger	Terrot1	Roger Patrouilleau était résinier. Il utilisait pour son travail un vélo de marque Terrot, en état médiocre.
+104	Patrouilleau	Louise	Terrot2	Louise Patrouilleau était cultivatrice. Elle possédait une bicyclette de marque Terrot, en état médiocre.
+105	Duphil	Jean	Terrot1	Jean Duphil était propriétaire et agent de liaison du service incendie, il roulait sur un vélo de marque Terrot, en bon état.
+106	Duphil	Clothilde	Dame	Clothilde Duphil était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque inconnue, en état passable.
+107	Dangieu	Jean	Cazenave	Jean Dangieu était boucher. Il faisait ses commissions avec un vélo de marque Cazenave, en état passable.
+108	Dangieu	Yvonne	Dilecta	Yvonne Dangieu était bouchère. Elle se déplaçait avec une bicyclette de marque Dilecta, en bon état.
+109	Dupuch	Marthe	Dame	Marthe Dupuch était marchande de journaux. Elle utilisait pour ses livraisons une bicyclette sans marque, en état médiocre.
+110	Joutang	Jeanty	Cazenave	Jeanty Joutang était ouvrier à la scierie Raba. Il allait au travail sur un vélo de marque Cazenave, en état passable.
+111	Joutang	Marylis	Automoto	Marylis Joutang était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Automoto, en état médiocre.
+112	Dulaurent	Roger	Wonder2	Roger Dulaurent était mouleur chez Cazenave. Il roulait sur un vélo de marque Wonder, en état passable. Il était aussi pompier volontaire.
+113	Dulaurent	Henry	Homme	Henry Dulaurent était chauffeur chez Cazenave. Il roulait sur un vélo sans marque, en état passable.
+114	Dulaurent	Robert	Homme	Robert Dulaurent était scieur à la scierie Delage. Il allait au travail sur un vélo sans marque, en état passable.
+115	Dudon	Berrnard	Homme	Bernard Dudon était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+116	Lamu	Héloïse	Dame	Héloïse Lamu était cultivatrice. Elle possédait une bicyclette sans marque, en état médiocre.
+117	Dando	Louis	Dame	Louis Dando était curé. Il utilisait pour les besoins du culte un vélo de dame sans marque.
+118	Deycard	Alphonse	Homme	Alphonse Deycard était propriétaire et syndic adjoint forestier. Il utilisait un vélo sans marque, en état médiocre.
+119	Dupuy	Alcide	Homme	Alcide Dupuy était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+120	Dupuy	Marguerite	Dame	Marguerite Dupuy était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+121	Brun	Joseph	Cazenave	Joseph Brun était magasinier chez Cazenave. Il roulait sur un vélo de marque Cazenave, en état passable.
+122	Brun	Madeleine	Terrot2	Madeleine Brun était cultivatrice. Elle possédait une bicyclette de marque Terrot, usagée.
+123	Brun	Jules	Dame	Jules Brun était cultivateur. Il utilisait pour la visite de ses propriétés un vélo de dame sans marque, usagé.
+124	Lalande	Paul	Nogesia	Paul Lalande était scieur en forêt. Il utilisait pour ses affaires un vélo de marque Nogesia, usagé.
+125	Latrille	Léonce	Terrot1	Léonce Latrille était résinier. Il utilisait pour son travail un vélo de marque Terrot, usagé.
+126	Latrille	André	Homme	André Latrille était résinier. Il utilisait pour son travail un vélo sans marque, usagé.
+127	Latrille	Antoinette	Dame	Antoinette Latrille était cultivatrice. Elle possédait une bicyclette sans marque, usagée.
+128	Duc	Louis	Homme	Louis Duc était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+129	Loubère	Antoinette	Dame	Antoinette Loubère était cultivatrice. Elle possédait une bicyclette sans marque, en état médiocre.
+130	Mano	René	Cazenave	René Mano était plâtrier. Il allait au travail sur un vélo de marque Cazenave, en bon état.
+131	Mano	Jean	Cazenave	Jean Mano était plâtrier. Il allait au travail sur un vélo de marque Cazenave, en état passable.
+132	Mano	Madeleine	Cazenave	Madeleine Mano était ménagère et mère de sept enfants mineurs. Elle se déplaçait avec une bicyclette de marque Cazenave, en bon état.
+133	Dubourg	Raymond	Homme	Raymond Dubourg était mouleur chez Cazenave. Il allait au travail sur un vélo sans marque, en état médiocre.
+134	Dantès	Abeloi	Cazenave	Abeloi Dantès était ouvrier forestier chez Grasseau. Il allait au travail sur un vélo de marque Cazenave, en bon état.
+135	Moreno	Pedro	Origan	Pedro Moreno était ouvrier forestier aux établissements Gaillard. Il allait au travail sur un vélo de marque Oregon, en bon état.
+136	Moreno	Maria	Dame	Maria Moreno était cultivatrice. Elle possédait une bicyclette sans marque, en bon état.
+137	Deloubes	Elie	Electa	Elie Deloubes était scieur à la scierie de Joué. Il allait au travail sur un vélo de marque Electa, usagé.
+138	Deloubes	Henriette	Dame	Henriette Deloubes était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, usagée.
+139	Deloubes	Maurice	Homme	Maurice Deloubes était résinier. Il utilisait pour son travail un vélo sans marque, usagé.
+140	Dumartin	Etienne	Terrot2	Etienne Dumartin était facteur des Postes. Il utilisait un vélo de marque Terrot, en état passable.
+141	Lumalé	François	Homme	François Lumalé était facteur des postes. Il utilisait un vélo sans marque, en état passable.
+142	Dubedat	Antoine	Morse	Antoine Dubedat était chef de secteur à la régie syndicale. Il se servait d'un vélo de marque Morse, en bon état.
+143	Dubedat	Lucie	Dame	Lucie Dubedat était cultivatrice. Elle se déplaçait avec une bicyclette de marque Rodem, en bon état.
+144	Maurin	Marcel	Homme	Marcel Maurin était résinier. Il utilisait pour son travail un vélo sans marque, en état passable.
+145	Maurin	Germaine	Dame	Germaine Maurin était cultivatrice. Elle possédait une bicyclette sans marque, usagée.
+146	Carriconde	Marguerite	Dame	Marguerite Carriconde était cultivatrice et veuve. Elle utilisait pour son ravitaillement une bicyclette sans marque, usagée.
+148	Gorse	Antoinette	Tendil	Antoinette Gorse est déclarée sans profession. Elle possédait une bicyclette de marque Tendil, en état passable.
+149	Gorse	Suzanne	Terrot1	Suzanne Gorse est déclarée sans profession. Elle possédait une bicyclette de marque Terrot, en bon état.
+150	Poumey	Camille	Homme	Camille Poumey était epicier. Il possédait un vélo sans marque, en état médiocre.
+151	Poumey	Marie	Dame	Marie Poumey, veuve, était propriétaire. Elle utilisait pour ses travaux agricoles une bicyclette sans marque, en état médiocre.
+152	Poumey	Eliette	Cazenave	Eliette Poumey était épicière. Elle se déplaçait avec une bicyclette de marque Cazenave, en bon état.
+153	Biguerie	Jean	Cazenave	Jean Biguerie était mouleur chez Cazenave. Il roulait sur un vélo de marque Cazenave, en bon état.
+154	Dubois	Gaston	Hermès	Gaston Dubois était manoeuvre chez Cazenave. Il roulait sur un vélo de marque Hermès, en bon état.
+155	Larrue	Joseph	Homme	Joseph Larrue était charpentier. Il possédait un vélo sans marque, en bon état.
+156	Bacque	Jeanne	Lapébie	Jeanne Bacque était cultivatrice. Elle utilisait pour sestravaux agricoles une bicyclette de marque Lapébie, en état passable.
+157	Dupart	Henriette	Dilecta	Henriette Dupart était cultivatrice. Elle utilisait pour son travaux agricoles une bicyclette de marque Dilecta, usagée.
+158	Lacape	André	Cazenave	André Lacape était mouleur chez Cazenave. Il roulait sur un vélo de marque Cazenave, en bon état.
+159	Lacape	Madeleine	Automoto	Madeleine Lacape était cultivatrice. Elle utilisait pour ses travaux agricoles une bicyclette de marque Automoto, en état médiocre.
+160	Ricard	René	Cazenave	René Ricard était mécanicien chez Cazenave. Il roulait sur un vélo de marque Cazenave, en état passable.
+161	Ricard	Mathilde	Dame	Mathilde Ricard était cultivatrice. Elle utilisait pour ses travaux agricoles une bicyclette sans marque, en état passable.
+162	Marceron	Léonie	Dame	Léonie Marceron était cultivatrice et veuve. Elle utilisait pour ses travaux agricoles une bicyclette sans marque, en état médiocre.
+163	Roblès	Antoine	Homme	Antoine Roblès était ouvrier d'usine à la scierie Delage. Il allait au travail sur un vélo sans marque, en état médiocre.
+164	Roblès	Angel	Homme	Angel Roblès était ouvrier d'usine chez Cazenave. Il roulait sur un vélo sans marque, en état médiocre.
+165	Roblès	Jesus	Homme	Jesus Roblès était ouvrier d'usine à la scierie Delage. Il allait au travail sur un vélo sans marque, en état médiocre.
+166	Mano	George Père	Cazenave	Georges Mano père était peintre. Il possédait un tandem de marque Cazenave, en bon état.
+167	Mano	Georges Fils	Terrot2	Georges Mano fils était peintre. Il avait un vélo de marque Terrot, en état passable.
+168	Mano	Lucienne	Terrot1	Lucienne Mano est déclarée sans profession. Elle utilisait une bicyclette de marque Terrot, en état passable.
+169	Plantey	André	Homme	André Plantey était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+170	Plantey	Odette	Dame	Odette Plantey était cultivatrice. Elle possédait une bicyclette sans marque, en état médiocre.
+171	Léglise	Alfred	Homme	Alfred Léglise était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+172	Léglise	Darina	Dame	Léglise était cultivatrice. Elle possédait une bicyclette sans marque, en état médiocre.
+173	Lamu	Louis	Astra	Louis Lamu, mutilé de guerre, était manoeuvre. Il se servait d'un vélo de marque Astra, en bon état.
+174	Dubourg	Louis	Homme	Louis Dubourg était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+175	Dubourg	Elida	Dame	Elida Dubourg était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+176	Boyrie	André	Wonder1	André Boyrie était turbinier à l'usine Minela à Hostens. Il utilisait pour aller au travail un vélo de marque Wonder, en état passable.
+177	Boyrie	Marcelle	Gazelle1	Marcelle Boyrie était cultivatrice. Elle se déplaçait avec une bicyclette de marque Gazelle, en état passable.
+178	Lalanne	Justin	Homme	Justin Lalanne était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+179	Lalanne	Amélie	Dame	Amélie Lalanne était cultivatrice. Elle possédait une bicyclette sans marque, en état médiocre.
+180	Darriet	Roger	Peugeot1	Roger Darriet était résinier. Il utilisait pour son travail un vélo de marque Peugeot, en état médiocre.
+181	Darriet	Pierrette	Dame	Pierrette Darriet était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque.
+182	Mano	Gaston	Dilecta	Gaston Mano était mouleur chez Destang. Il allait au travail sur un vélo de marque Dilecta, en état médiocre.
+183	Mano	Julia	Dame	Julia Mano était cultivatrice. Elle possédait une bicyclette sans marque, en état médiocre.
+184	Mano	Michelle	Lugo	Michelle Mano était cultivatrice. Elle se déplaçait avec une bicyclette de marque Lugo, en état passable.
+185	Leveque	Edmond	Homme	Edmond Levêque était maçon. Il utilisait un vélo de marque inconnue, en état passable.
+186	Ballion	Albert	Cazenave	Albert Ballion était mouleur chez Cazenave. Il roulait sur un vélo de marque Cazenave, en état passable.
+187	Ballion	Janine	Cazenave	Janine Ballion était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Cazenave, en état passable.
+188	Mano	Frédéric	Cazenave	Frédéric Mano était employé chez Cazenave. Il roulait sur un vélo de marque Cazenave, en état passable. Il était aussi pompier volontaire.
+189	Mano	Marie-Louise	Dame	Marie-Louise Mano était tailleuse. Elle utilisait un e bicyclette de marque inconnue, en état passable.
+190	Dubois	Andrée	Cazenave	Andrée Dubois était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Cazenave, en état passable.
+191	Dudézert	Elie	Homme	Elie Dudézert était charron. Il se servait d'un vélo sans marque, usagé.
+192	Dudézert	Denise	Dame	Denise Dudézert était cultivatrice. Elle possédait une bicyclette de marque Solidor, usagée.
+193	Vidal	Elie	Homme	Elie Vidal était manoeuvre chez Cazenave. Il roulait sur un vélo sans marque usagé.
+194	Vidal	Madeleine	Dame	Madeleine Vidal était cultivatrice. Elle possédait une bicyclette sans marque, usagée.
+195	Bertruc	Isnel	Homme	Isnel Bertruc était mouleur chez Destang. Il allait au travail sur un vélo de marque inconnue, usagé.
+196	Latournerie	Yvette	Dame	Yvette Latournerie était cultivatrice. Elle possédait une bicyclette usagée.
+197	Cazimajou	Ulysse	Wonder2	Ulysse Cazimajou était résinier. Il utilisait pour son travail un vélo de marque Wonder, usagé.
+198	Cazimajou	Élie	Astra	Elie Cazimajou était cantonnier au service vicinal. Il possédait un vélo de marque Astra, en état passable.
+199	Cazimajou	Simone	Elcé	Simone Cazimajou était cultivatrice. Elle se déplaçait avec une bicyclette de marque Elcé, en état passable.
+200	Dubos	Gabriel	Homme	Gabriel Dubos était résinier. Il utilisait pour son travail un vélo sans marque, en état passable.
+201	Dubos	Simone	Terrot2	Simone Dubos était cultivatrice. Elle possédait une bicyclette de marque Terrot, en état passable.
+202	Citrain	Jean	Homme	Jean Citrain était résinier. Il utilisait pour son travail un vélo sans marque, en état passable.
+203	Lafon	Germain	Homme	Germain Lafon était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+204	Lafon	Lucie	Dame	Lucie Lafon était cultivatrice. Elle possédait une bicyclette sans marque, en état médiocre.
+205	Lafon	Georges	Homme	Georges Lafon était marchand de poisson. Il possédait un vélo sans marque, en état médiocre.
+206	Lafon	Amélia	Dame	Amélia Lafon était marchande de poisson. Elle possédait une bicyclette sans marque, en état médiocre.
+207	Sence	Justin	Homme	Justin Sence était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+208	Sence	René	Homme	René Sence était manoeuvre chez Destang. Il se servait d'une bicyclette homme sans marque, en état médiocre.
+209	Sence	Raoul	Homme	Raoul Sence était manoeuvre chez Cazenave. Il roulait sur un vélo sans marque, en état médiocre.
+210	Sence	Juliette	Dame	Juliette Sence était cultivatrice. Elle possédait une bicyclette sans marque, en état médiocre.
+211	Sentucq	Elise	Wonder1	Elise Sentucq était porteuse de télégrammes aux PTT. Elle utilisait pour son travail une bicyclette de marque Wonder, en état passable.
+212	Sentucq	Edgard	Cazenave	Edgard Sentucq était boulanger. Il utilisait pour ses livraisons une bicyclette de marque Cazenave, usagée.
+213	Ricard	Albert	Vélor2	Albert Ricard était manoeuvre forestier. Il se servait d'un vélo de marque Vélor, en bon état.
+214	Ricard	Simone	Dame	Simone Ricard était journalière. Elle possédait une bicyclette sans marque, en état passable.
+215	Carreyre	Paul	Dame	Paul Carreyre était mutilé à 100%. Il utilisait un vélo de dame sans marque, en bon état.
+216	Boudé	Emmanuel	Homme	Emmanuel Boudé était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+217	Boudé	Huguette	Dame	Huguette Boudé était cultivatrice. Elle se déplaçait avec une bicyclette sans marque, en état médiocre.
+218	Loubic	Etienne	Homme	Etienne Loubic était ouvrier à la scierie de Joué. Il allait au travail sur un vélo sans marque, en état médiocre.
+219	Loubic	Janette	Dame	Janette Loubic est déclarée sans profession. Elle possédait une bicyclette sans marque, en état passable.
+220	Darriet	Jean	Peugeot2	Jean Darriet était scieur à la scierie Delage. Il allait au travail sur un vélo de marque Peugeot, en état passable.
+221	Darriet	Janette	Terrot1	Janette Darriet était cultivatrice. Elle possédait une bicyclette de marque Terrot, en état passable.
+222	Darriet	Germaine	Cazenave	Germaine Darriet était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Cazenave, en état médiocre.
+223	Plantey	Léopold	Cazenave	Léopold Plantey était maréchal-ferrant. Il utilisait pour les soins à domicile un vélo de marque Cazenave, en état passable.
+224	Plantey	Colette	Alios	Colette Plantey est déclarée sans profession. Elle faisait ses commissions avec une bicyclette de marque Alios, en état passable.
+225	Darriet	Alexis	Terrot1	Alexis Darriet était résinier. Il utilisait pour son travail un vélo de marque Terrot, en état médiocre.
+226	Darriet	Germaine	Terrot2	Germaine Darriet était cultivatrice. Elle possédait une bicyclette de marque Terrot, en bon état.
+227	Sébastien	Joseph	Cazenave	Joseph Sébastien était scieur à la scierie Delage. Il allait au travail sur un vélo de marque Cazenave, en état passable.
+228	Garnung	Roger	Homme	Roger Garnung était mouleur chez Destang. Il allait au travail sur un vélo sans marque, en état médiocre. Il était aussi pompier volontaire.
+229	Garnung	Geneviève	Dame	Geneviève Garnung est déclarée sans profession. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+230	Laforêt	Louis	Homme	Louis Laforêt était retraité. Il possédait un vélo sans marque, en état médiocre.
+231	Dubourg	Isabelle	Dame	Isabelle Dubourg était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+232	Cazimajou	Romain	Homme	Romain Cazimajou était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+233	Cazimajou	Elina	Dame	Elina Cazimajou est déclarée sans profession. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+234	Cazimajou	Jean	Homme	Jean Cazimajou était ouvrier forestier à la scierie Delage. Il allait au travail sur un vélo sans marque, en état médiocre.
+235	Dumora	Oliivier	Dainty	Olivier Dumora était scieur à la scierie Delage. Il allait au travail sur un vélo de marque Dainthy, en état passable.
+236	Dumora	Louise, femme d'Oliv	Dainty	Louise Dumora était cultivatrice. Elle se déplaçait avec une bicyclette de marque Dainthy, en état passable.
+237	Barsacq	Henri	Homme	Henri Barsacq était résinier. Il utilisait pour son travail un vélo de marque inconnue, usagé.
+238	Gardère	Osmin	Homme	Osmin Gardère était manoeuvre chez Cazenave. Il roulait sur un vélo de marque inconnue, usagé.
+239	Dubedat	Paul	Homme	Paul Dubedat était résinier. Il utilisait pour son travail un vélo de marque inconnue, usagé.
+240	Dubedat	Cazilda	Dame	Cazilda Dubedat était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque inconnue, usagée.
+241	Lalanne	René	Cazenave	René Lalanne était mécanicien chez Cazenave. Il roulait sur un vélo de marque Cazenave, en bon état.
+242	Lalanne	Marie-Louise	Cazenave	Marie-Louise Lalanne était cultivatrice. Elle se déplaçait avec une bicyclette de marque Cazenave, en bon état.
+243	Dumora	Jean	Homme	Jean Dumora était manoeuvre à la société minière d'Hostens. Il se servait d'un vélo sans marque, en état médiocre.
+244	Ballion	Etienne	Homme	Etienne Ballion était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+245	Ballion	Laurence	Dame	Laurence Ballion était cultivatrice. Elle se déplaçait avec une bicyclette sans marque, en état passable.
+246	Gassies	Charles	Homme	Charles Gassies était ouvrier forestier à la scierie Delage. Il allait au travail sur un vélo sans marque, en état passable.
+247	Gassies	Lucie	Rolls	Lucie Gassies était cultivatrice. Elle se déplaçait avec une bicyclette de marque Rolls, en état passable.
+248	Dupy	Joseph	Victrix	Joseph Dupy était ouvrier forestier chez Nouaux. Il allait au travail sur un vélo de marque Vitrix, en état passable.
+249	Dupy	Denise	Dame	Denise Dupy était lingère. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+250	Géraud	Louis	Cazenave	Louis Géraud était chauffeur à la tuilerie Domecq. Il se servait d'un vélo de marque Cazenave, en état passable.
+251	Dedieu	Pierre	Homme	Pierre Dedieu était ouvrier forestier chez Brun. Il allait au travail sur un vélo sans marque, en état médiocre.
+252	Servan	Elie	Homme	Elie Servan était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+253	Dubourg	Olga	Dame	Olga Dubourg était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+254	Ricard	Jules	Cazenave	Jules Ricard était chaisier. Il utilisait pour les visites à sa clientèle un vélo de marque Cazenave, en état médiocre.
+255	Ricard	Léo	Cazenave	Léo Ricard était chaisier. Il utilisait pour son livraisons un vélo de marque Cazenave, en bon état.
+256	Persillon	Jean	Gazelle3	Jean Persillon était chauffeur chez Cazenave. Il roulait sur un vélo de marque Gazelle, en état passable.
+257	Patanchon	René	Homme	René Patanchon était chauffeur chez Saugnac. Il se servait d'un vélo sans marque, en état médiocre.
+258	Patanchon	Denise	Dame	Denise Patanchon était journalière. Elle utilisait une bicyclette de marque Hetan?, en état médiocre.
+259	Fayet	Alexis	Homme	Alexis Fayet était chef cantonnier au service vicinal. Il se servait d'un vélo sans marque, en état passable.
+260	Fayet	Lucienne	Cazenave	Lucienne Fayet était ouvrière d'usine à la scierie Delage. Elle allait au travail sur une bicyclette de marque Cazenave, en bon état.
+261	Fayet	Andrée	Dame	Andrée Fayet était ouvrière d'usine à la scierie Delage. Elle allait au travail sur une bicyclette sans marque, usagée.
+262	Garcia	Torribio	Terrot2	Torribio Garcia était scieur chez Mora. Il allait au travail sur un vélo de marque Terrot, en état médiocre.
+263	Peynaud	Joseph	Homme	Joseph Peynaud était résinier. Il utilisait pour son travail un vélo sans marque, en état passable.
+264	Peynaud	Andréa	Dame	Andréa Peynaud était cultivatrice. Elle possédait une bicyclette sans marque, en état passable.
+265	Dupart	Jean	Cazenave	Jean Dupart était marchand de poisson. Il se déplaçait avec un vélo de marque Cazenave, en état passable.
+266	Dupart	Camille	Homme	Camille Dupart était marchand de poisson. Il utilisait pour son ravitaillement un vélo sans marque, en état médiocre.
+267	Dupart	Germaine	Dainty	Germaine Dupart était marchande de poisson. Elle se déplaçait avec une bicyclette de marque Dainthy, en état médiocre.
+268	Ballion	Jeanne	Cazenave	Jeanne Ballion était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Cazenave, en état passable.
+269	Saugnac	Pierre	Homme	Pierre Saugnac était pharmacien dentiste. Il utilisait pour son approvisionnement un vélo sans marque, en bon état.
+270	Saugnac	Odette	Dame	Odette Saugnac était sans profession. Elle possédait une bicyclette sans marque, en bon état.
+271	Ducos	Louis	Homme	Louis Ducos était résinier. Il utilisait pour son travail un vélo sans marque, en état passable.
+272	Ducos	Louisa	Dame	Louisa Ducos était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+273	Ducos	Roger	Victrix	Roger Ducos était résinier. Il utilisait pour son travail un vélo de marque Vitrix, en état passable.
+274	Dupouy	Renée	Dame	Renée Dupouy était boulangère. Elle utilisait pour ses livraisons une bicyclette sans marque, usagée.
+275	Durroux	Elie	Homme	Elie Durroux était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+276	Durroux	Henriette	Dame	Henriette Durroux était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+277	Mano	André	Homme	André Mano était peintre. Il utilisait un vélo sans marque, en bon état.
+278	Deloubes	Lucien	Alios	Lucien Deloubes était cantonnier aux Ponts-et-Chaussées. Il possédait un vélo de marque Alios, en état médiocre.
+279	Deloubes	Angelia	Dame	Angelia Deloubes était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+280	Durou	Jean	Terrot2	Jean Durou, réformé à 100%,  était propriétaire. Il utilisait un vélo de dame de marque Terrot, en bon état.
+281	Durou	Marie-Jeanne	Terrot1	Marie-Jeanne Durou était cultivatrice. Elle possédait une bicyclette de marque Terrot, usagée.
+282	Pochelu	Maurice	Homme	Maurice Pochelu était manoeuvre chez Destang. Il se servait d'un vélo de marque Chamois, usagé. Il était aussi pompier volontaire.
+283	Lantrès	Madeleine	Dame	Madeleine Lantrès était cultivatrice et veuve. Elle possédait une bicyclette sans marque, usagée.
+284	Cazenac	Gilbert	Vélor1	Gilbert Cazenac était domestique. Il utilisait pour ses livraisons un vélo de marque Vélor, en état passable.
+285	Durroux	Marcel	Homme	Marcel Durroux était mouleur chez Destang. Il allait au travail sur un vélo de marque Braucourt, en état passable.
+286	Durroux	Antoinette	Dame	Antoinette Durroux était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Braucourt, en état passable.
+287	Marguerit	Robert	Cazenave	Robert Marguerit était manoeuvre chez Cazenave. Il roulait sur un vélo de marque Cazenave, en bon état.
+288	Dubourg	André	Homme	André Dubourg était électricien chez Mora. Il se servait d'un vélo sans marque, en état passable.
+289	Dubourg	Georgette	Dame	Georgette Dubourg était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, usagée.
+290	Labarbe	Jean	Homme	Jean Labarbe était manoeuvre à la Cellulose du pin. Il se servait d'un vélo sans marque, en état passable.
+291	Labarbe	Michelle	Gazelle2	Michelle Labarbe est déclarée sans profession. Elle utilisait une bicyclette de marque Gazelle, en état passable.
+292	Dumora	Jean	Cazenave	Jean Dumora était résinier. Il utilisait pour son travail un vélo de marque Cazenave, en état médiocre.
+293	Boyrie	Gaston	Cazenave	Gaston Boyrie était résinier. Il utilisait pour son travail un vélo de marque Cazenave, usagé.
+294	Mano	Fleury	Homme	Fleury Mano était cultivateur. Il se servait d'un vélo sans marque, en état passable.
+295	Daney	Camille	Astra	Camille Daney était mouleur. Il allait au travail sur un vélo de marque Astra, en état passable. Il était aussi pompier volontaire.
+296	Tastet	Maurice	Astra	Maurice Tastet était journalier. Il utilisait un vélo de marque Astra, en état passable.
+297	Tastet	Adrienne	Dame	Adrienne Tastet est déclarée sans profession. Elle possédait une bicyclette sans marque, en état médiocre.
+298	Dupin	Gaston	Dame	Gaston Dupin utilisait un vélo de dame sans marque, en état médiocre.
+299	Dupin	Simon	Dame	Simone Dupin était ouvrière d'usine à la scierie Delage. Elle allait au travail sur une bicyclette sans marque, en état médiocre.
+300	Dupin	René	Homme	René Dupin était mécanicien chez Lafargue à Labouheyre. Il utilisait un vélo sans marque, en état passable.
+301	Poumey	Raoul	Dilecta	Raoul Poumey était résinier. Il utilisait pour son travail un vélo de marque Dilecta, en état médiocre.
+302	Poumey	Camille	Souleyreau	Camille Poumey était résinier. Il utilisait pour son travail un vélo de marque Souleyreau, en état médiocre.
+303	Courbin	Germain	Homme	Germain Courbin était négociant. Il utilisait pour son travail de syndic forestier un vélo sans marque, en état médiocre.
+304	Courbin	Yvette	Cazenave	Yvette Courbin était agent d'assurances. Elle utilisait pour son encaissements une bicyclette de marque Cazenave, en état passable.
+305	Courbin	Janette	Dorillac	Janette Courbin était agent d'assurances. Elle utilisait pour ses encaissements une bicyclette de marque Dorillac, en état médiocre.
+306	Souleyreau	Jean-Marie	Homme	Jean-Marie Souleyreau était garagiste. Il roulait sur un vélo de marque Rogesia, en bon état.
+307	Souleyreau	René	Souleyreau	René Souleyreau était garagiste. Il utilisait un vélo de dame de marque Souleyreau, en état passable.
+308	Lafiteau	Alice	Terrot2	Alice Lafiteau est déclarée sans profession. Elle possédait une bicyclette de marque Terrot, en bon état.
+309	Souleyreau	Andrée	Souleyreau	Andrée Souleyreau est déclarée sans profession. Elle possédait une bicyclette de marque Souleyreau, en état passable.
+310	Dubois	Jean	Souleyreau	Jean Dubois était tuilier à la tuilerie Domecq. Il allait au travail sur un vélo de marque Souleyreau, usagé.
+311	Dubois	Marcel	Dilecta	Marcel Dubois était tuilier à la tuilerie Domecq. Il allait au travail sur un vélo de marque Dilecta, en état passable.
+312	Dubois	Marcelle	Dame	Marcelle Dubois était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+313	Larroque	Henri	Cazenave	Henri Larroque était tuilier à la tuilerie Domecq. Il allait au travail sur un vélo de dame de marque Cazenave, en état passable.
+314	Vignolles	Louis	Idéal	Louis Vignolles était tuilier à la tuilerie Domecq. Il allait au travail sur un vélo de marque Idéal, en état médiocre.
+315	Vignolles	Elise	Dame	Elise Vignolles était cultivatrice. Elle possédait une bicyclette sans marque, en état médiocre.
+316	Gaillard	Pierre	Allegro	Pierre Gaillard était mécanicien chez Cazenave. Il roulait sur un vélo de marque Allegro, en état passable.
+317	Dulas	André	Cazenave	André Dulas était mécanicien chez Cazenave. Il roulait sur un vélo de marque Cazenave, en état passable.
+318	Ballion	Sylvain	Homme	Sylvain Ballion était limeur chez Grasseau. Il utilisait un vélo sans marque, en état médiocre.
+319	Ballion	Marceline	Dame	Marceline Ballion était cultivatrice. Elle se déplaçait avec une bicyclette sans marque, en état médiocre.
+320	Harriet	Gaston	Homme	Gaston Harriet était résinier. Il utilisait pour son travail un vélo sans marque, en état passable.
+321	Sierra	José	Homme	José Sierra était ouvrier forestier à la scierie Delage. Il allait au travail sur un vélo sans marque, en état passable.
+322	Roumat	Alfred	Homme	Alfred Roumat était instituteur. Il possédait un vélo sans marque, en état médiocre.
+323	Panatier	René	Gemo	René Panatier était ouvrier à la scierie Delage. Il allait au travail sur un vélo de marque Gemo, en état passable. Il était aussi pompier volontaire.
+324	Panatier	Lucienne	Gemo	Lucienne Panatier était ouvrière à la scierie Delage. Elle allait au travail sur une bicyclette de marque Gemo, en état passable.
+325	Darriet	Jean	Homme	Jean Darriet était charpentier. Il possédait un vélo sans marque, en état passable. Il était aussi pompier volontaire.
+326	Darriet	Robert	Homme	Robert Darriet était charpentier. Il se servait d'un vélo sans marque, en état médiocre.
+327	Jourdan	Joseph	Homme	Joseph Jourdan était ouvrier à la scierie Delage. Il allait au travail sur un vélo de marque Braucourt, en état médiocre.
+328	Jourdan	Léa	Alcyon2	Léa Jourdan était ouvrière à la scierie Delage. Elle allait au travail sur une bicyclette de marque Alcyon, en état passable.
+329	Goubet	Andrée	Alcyon1	Andrée Goubet était institutrice. Elle faisait ses commissions avec une bicyclette de marque Alcyon, en état passable.
+330	Estrémé	Valentin	Dame	Valentin Estrémé était colonel en retraite. Il utilisait pour son ravitaillement un vélo de dame sans marque, en état passable.
+331	Estrémé	Anne-Marie	Dame	Anne-Marie Estrémé est déclarée sans profession. Elle utilisait pour son ravitaillement une bicyclette sans marque, en bon état.
+332	Roumégoux	André	Dorillac	André Roumégoux appartenait à la police forestière. Il utilisait pour ses tournées un vélo de marque Dorillac, en état passable. Il était aussi pompier volontaire.
+333	Roumégoux	Yvette	Dame	Yvette Roumégoux est déclarée sans profession. Elle faisait ses commissions avec une bicyclette de marque Braucourt, en état passable.
+334	Dubrous	Yves	Souleyreau	Yves Dubrous était manoeuvre à la fonderie. Il se servait d'un vélo de marque Souleyreau, en état médiocre.
+335	Gardère	Henri	Homme	Henri Gardère était manoeuvre chez Cazenave. Il roulait sur un vélo sans marque, en état médiocre.
+336	Loubic	Léonce	Wonder2	Léonce Loubic était chiffonnier. Il utilisait pour ses affaires un vélo de dame de marque Wonder, en état médiocre.
+337	Ricard	Joseph	Diamant2	Joseph Ricard était scieur à la scierie forestière. Il allait au travail sur un vélo de marque Diamant, en état passable.
+338	Ricard	Georges	Cazenave	Georges Ricard était scieur à la scierie forestière. Il allait au travail sur un vélo de marque Cazenave, en état passable.
+339	Ricard	Yvon	Vigor	Yvon Ricard était scieur à la scierie forestière. Il allait au travail sur un vélo de marque Vigor, en état passable.
+340	Ricard	Geneviève	Astra	Geneviève Ricard était cuisinière à la scierie forestière. Elle faisait ses commissions avec une bicyclette de marque Astra, en état passable.
+341	Bordessoules	Marius	Cazenave	Marius Bordessoules était scieur à la scierie forestière. Il allait au travail sur un vélo de marque Cazenave, en état passable.
+342	Destang	Maxime	Cazenave	Maxime Destang était boucher et boulanger. Il possédait un vélo de marque Cazenave, en état passable.
+343	Destang	Jean	Cazenave	Jean Destang était marchand de porcs. Il utilisait pour son affaires un vélo de marque Cazenave, en état passable.
+344	Duluc	Pierre	Cazenave	Pierre Duluc était boulanger. Il utilisait pour ses livraisons un vélo de marque Cazenave, en état passable.
+345	Lafon	Marc	Cazenave	Marc Lafon était boucher. Il utilisait pour ses livraisons un vélo de marque Cazenave, en état médiocre.
+346	Seinlary	Michel	Dainty	Michel Seinlary était fabricant de vernis. Il utilisait pour ses affaires un vélo de marque Dainthy, en état passable.
+347	Seinlary	Jean	Cazenave	Jean Seinlary était fabricant de vernis. Il utilisait un vélo de marque Cazenave, en état passable.
+348	Seinlary	Yvette	Hirondelle1	Yvette Seinlary était sans profession.Elle utilisait un vélo de marque Hiron, en bon état.
+349	Destang	André	Homme	André Destang était propriétaire. Il utilisait pour la visite de ses propriétés un vélo de marque inconnue, en bon état.
+350	Destang	Georgette	Dame	Georgette Destang était propriétaire. Elle faisait ses commissions avec une bicyclette de marque inconnue, en bon état.
+351	Lumalé	Lydie	Dame	Lydie Lumalé était apprentie couturière. Elle possédait une bicyclette sans marque, en état passable.
+352	Gardère	Albert	Homme	Albert Gardère était cantonnier. Il utilisait pour le service vicinal un vélo sans marque, en état passable. Il était aussi pompier volontaire.
+353	Gardère	Suzanne	Astarté	Suzanne Gardère était employée aux P.T.T. Elle utilisait une bicyclette de marque Astarté, en bon état.
+354	Duluc	Paul	Homme	Paul Duluc était forgeron. Il utilisait un vélo sans marque, assez usagé.
+355	Mansencal	Armand	Homme	Armand Mansencal possédait une entreprise forestière. Il utilisait pour lasurveillance des chantiers un vélo sans marque, en état assez usagé.
+356	Mansencal	Lucie	Royal	Lucie Mansencal est déclarée sans profession. Elle se déplaçait avec une bicyclette de marque Royal, en état passable.
+357	Loubic	Daniel	Cazenave	Daniel Loubic était ouvrier forestier à la scierie de Joué. Il allait au travail sur un vélo de marque Cazenave, en état passable. Il était aussi pompier volontaire.
+358	Loubic	Yvette	Cazenave	Yvette Loubic est déclarée sans profession. Elle se déplaçait avec une bicyclette de marque Cazenave, en état médiocre.
+359	Lafon	Abel	Homme	Abel Lafon était résinier. Il utilisait pour son travail un vélo de marque Chamois, usagé.
+360	Lafon	Yvonne	Dame	Yvonne Lafon était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Braucourt, usagée.
+361	Lafon	Marthe	Dame	Marthe Lafon était cultivatrice. Elle possédait une bicyclette de marque Verdix, usagée.
+362	Dupart	Paul	Homme	Paul Dupart était charretier à l'usine Lescarret de produits résineux. Il se servait d'un vélo sans marque, usagé.
+363	Dupart	René	Homme	René Dupart était résinier et facteur auxiliaire des PTT. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+364	Biguerie	Robert	Cazenave	Robert Biguerie était sabotier. Il utilisait pour la visite de sa clientèle un vélo de marque Cazenave, en état passable.
+365	Biguerie	Augustin	Cazenave	Augustin Biguerie était sabotier. Il utilisait pour les visites à sa clientèle un vélo de marque Cazenave, en état passable.
+366	Dubois	Louisa	Dame	Louisa Dubois était ouvrière d'usine à la scierie Delage. Elle allait au travail sur une bicyclette sans marque, en état médiocre.
+367	Harribey	Maurice	Cazenave	Maurice Harribey était manoeuvre. Il se servait d'un vélo de marque Cazenave, en état passable.
+368	Harribey	Simone	Cazenave	Simone Harribey était employée de mairie. Elle utilisait une bicyclette de marque Cazenave, en état passable.
+369	Darriet	Joseph	passable	Joseph Darriet était garde aux Ponts-et-Chaussées. Il utilisait un vélo de marque Royal Oldy, en état passable.
+370	Darriet	Guy	Hirondelle2	Guy Darriet était comptable à la fonderie Destang. Il se servait d'un vélo de marque Hirondelle, en état passable.
+371	Darriet	Marthe	Touring	Marthe Darriet était cultivatrice. Elle possédait une bicyclette de marque Touring, en état passable.
+372	Robert	Jean	Souleyreau	Jean Robert était marchand de comestibles. Il possédait et ses tournées un vélo de marque Souleyreau, en état passable.
+373	Robert	Paulette	Faret	Paulette Robert était marchande de comestibles. Elle se déplaçait avec et sa tournée une bicyclette de marque Faret, en état passable.
+374	Dupin	Arnaud	Wonder2	Arnaud Dupin était employé aux Chemins de fer économiques. Il utilisait un vélo de marque Wonder, en bon état.
+375	Loubère	Emile	Homme	Emile Loubère était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+376	Loubère	Marie-Louise	Dame	Marie-Louise Loubère était cultivatrice. Elle possédait une bicyclette sans marque, en état médiocre.
+377	Léglise	Jean	Homme	Jean Léglise était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+378	Léglise	Jeanne	Dame	Jeanne Léglise était cultivatrice. Elle possédait une bicyclette sans marque, en état médiocre.
+379	Léglise	André	Cazenave	André Léglise était manœuvre à la scierie Cazenave. Il utilisait un vélo de marque Cazenave, en état passable.
+380	Ballion	Sylvère	Homme	Sylvère Ballion était modeleur chez Cazenave. Il utilisait un vélo sans marque, en état médiocre.
+381	Ballion	Jean	Homme	Jean Ballion était modeleur chez Cazenave. Il utilisait un vélo sans marque, en état passable.
+382	Ballion	Jeanne de la Coste	Cazenave	Jeanne Ballion était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Cazenave, en état neuf.
+383	Ballion	Suzanne	Cazenave	Suzanne Ballion était apprentie tailleuse. Elle possédait une bicyclette de marque Cazenave, en état neuf.
+384	Peyruch	Edmond	Homme	Edmond Peyruch était négociant. Il utilisait pour son commerce de mules un vélo sans marque, en état médiocre.
+385	Peyruch	Pierre	Cazenave	Pierre Peyruch était négociant. Il utilisait pour son commerce de mules un vélo de marque Cazenave, en état passable.
+386	Peyruch	Léoncia	Dame	Léoncia Peyruch est déclarée sans profession. Elle possédait une bicyclette sans marque, en état médiocre.
+387	Gleyze	Pierre	Homme	Pierre Gleyze était résinier et agent de liaison du syndicat. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+388	Gleyze	Jeanne	Dame	Jeanne Gleyze était cultivatrice. Elle possédait une bicyclette sans marque, en état médiocre.
+389	Gleyze	Marie	Dame	Marie Gleyze était cultivatrice et veuve. Elle possédait une bicyclette sans marque, en état médiocre.
+390	Léglise	Jeanne	Souleyreau	Jeanne Léglise était journalière. Elle utilisait pour ses travaux agricoles une bicyclette de marque Souleyreau, en état médiocre.
+391	Géraud	Charles	Homme	Charles Géraud était propriétaire exploitant. Il utilisait pour ses visites et son travail un vélo sans marque, en état passable.
+392	Dufaure	Abel	Homme	Abel Dufaure était propriétaire exploitant. Il utilisait pour ses visites et son travail un vélo sans marque, en état passable.
+393	Dufaure	Jacqueline	Dame	Jacqueline Dufaure était écolière à Salles. Elle utilisait pour son trajet une bicyclette sans marque, en état passable.
+394	Cazimajou	Clément	Homme	Clément Cazimajou était manoeuvre à la fonderie Destang. Il se servait d'un vélo sans marque, en état médiocre.
+395	Cazimajou	Cécile	Dame	Cécile Cazimajou était manoeuvre à la scierie Delage. Elle se servait d'une bicyclette sans marque, en état médiocre.
+396	Cazimajou	Pierre	Homme	Pierre Cazimajou était apprenti boulanger. Il allait au travail sur un vélo sans marque, en mauvais état.
+397	Cazauvieilh	René	Homme	René Cazauvieilh était tonnelier chez Mansencal. Il allait au travail sur un vélo de marque Bordeaux sports, en état passable.
+398	Cazauvieilh	Charlotte	Cazenave	Charlotte Cazauvieilh est déclarée sans profession. Elle utilisait une bicyclette de marque Cazenave, en état médiocre.
+399	Dubos	Pierrette	Dame	Pierrette Dubos était journalière. Elle utilisait une bicyclette sans marque, en état médiocre.
+400	Gaillard	Raoul	Homme	Raoul Gaillard, mutilé à 100%, était sans profession. Il utilisait un vélo sans marque, en état médiocre.
+401	Goujon	Marc	Homme	Marc Goujon était manoeuvre à la tuilerie Domecq. Il se servait d'un vélo sans marque, en état médiocre.
+402	Goujon	Andréa	Cazenave	Andréa Goujon était cultivatrice. Elle se déplaçait avec une bicyclette de marque Cazenave, en bon état.
+403	Dupouy	Justin	Dame	Justin Dupouy était résinier. Il utilisait un vélo de dame sans marque, en état médiocre.
+404	Mano	Pierre	Homme	Pierre Mano était médecin. Il utilisait un vélo sans marque, en état médiocre.
+405	Dupouy	Edgard	Homme	Edgard Dupouy était monteur de cycles chez Cazenave. Il roulait sur un vélo sans marque, en bon état.
+406	Dupouy	Paul	Homme	Paul Dupouy était résinier. Il utilisait un vélo sans marque, en état passable.
+407	Dupouy	Henriette	Lapébie	Henriette Dupouy était cultivatrice. Elle se déplaçait avec une bicyclette de marque Lapébie, en état passable.
+408	Latournerie	Maurice	Cazenave	Maurice Latournerie était manoeuvre chez Cazenave. Il utilisait un vélo de marque Cazenave, en état passable.
+409	Latournerie	Renée	Cazenave	Renée Latournerie était manoeuvre chez Cazenave. Elle utilisait une bicyclette de marque Cazenave, en état passable.
+410	Bal	Robert	Elvish	Robert Bal était receveur de l'Enregistrement. Il utilisait un vélo de marque Elwitch, en état médiocre.
+411	Garnung	Laurent	Homme	Laurent Garnung était propriétaire exploitant. Il utilisait un vélo sans marque, en état médiocre.
+412	Garnung	Edgard	Vogesia	Edgard Garnung était employé à la régie syndicale d'électricité. Il utilisait un vélo de marque Vogesia, en bon état.
+413	Garnung	Hélène	Souleyreau	Hélène Garnung était cultivatrice. Elle possédait une bicyclette de marque Souleyreau, en état passable.
+414	Broustet	Aurélien	Homme	Aurélien Broustet était cantonnier aux Chemins de fer économiques. Il utilisait un vélo sans marque, en état passable.
+415	Broustet	Jeanne	Dame	Jeanne Broustet était journalière. Elle utilisait une bicyclette sans marque, en état passable.
+416	Velty	Louis	Dame	Louis Velty était gérant du magasin l'Aquitaine. Il utilisait un vélo de dame sans marque, usagé.
+417	Degrave	André	CazenaveAndré Degrav	NULL
+418	Degrave	Lucie	Cazenave	Lucie Degrave était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Cazenave, usagée.
+419	Géraud	Arnaud	Cazenave	Arnaud Géraud était propriétaire. Il utilisait pour les travaux de ses propriétés un vélo de dame de marque Cazenave, en état passable.
+420	Géraud	Gabriel	Cazenave	Gabriel Géraud était muletier. Il allait au travail sur un vélo de marque Cazenave, en état passable.
+421	Géraud	Yvette	Cazenave	Yvette Géraud était cultivatrice. Elle se déplaçait avec une bicyclette de marque Cazenave, en état passable.
+422	Lalanne	Hector	Dame	Hector Lalanne était mouleur à la fonderie Destang. Il utilisait un vélo de dame sans marque, en état médiocre.
+423	Roblès	Manuel	Homme	Manuel Roblès était scieur limeur à l'exploitation forestière. Il utilisait un vélo de marque inconnue, en état passable.
+424	Roblès	Marguerite	Dame	Marguerite Roblès est déclarée sans profession. Elle faisait ses commissions avec une bicyclette de marque inconnue, très usagée.
+425	Dubédat	Eloi	Homme	Eloi Dubédat était manoeuvre chez Domecq-Cazaux. Il utilisait un vélo sans marque, usagé. Il était aussi pompier volontaire.
+426	Dubédat	Madeleine	Dame	Madeleine Dubédat était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, usagée.
+427	Vierge	Rémy	Homme	Rémy Vierge était résinier. Il utilisait pour son travail un vélo sans marque, usagé.
+428	Vierge	Roger	Homme	Roger Vierge était résinier. Il utilisait pour son travail un vélo sans marque, usagé.
+429	Raymon	Marcel	Mercier	Marcel Raymon était manoeuvre à la société minière d'Hostens. Il se servait d'un vélo de marque Mercier, en état passable.
+430	Raymon	Marie-Thérèse	Dame	Marie-Thérèse Raymon était journalière. Elle possédait une bicyclette sans marque, en état passable.
+431	Hazera	André	Homme	André Hazera était scieur dans la forêt. Il allait au travail sur un vélo sans marque, en état passable.
+432	Poublan	V.	Dame	V. Poublan était ouvrier à la scierie Delage. Il allait au travail sur une bicyclette sans marque, en état médiocre.
+433	Cazimajou	Marcel	Homme	Marcel Cazimajou était mouleur à la fonderie Destang. Il allait au travail sur un vélo sans marque, en état passable.
+434	Cazimajou	Sylvain	Dame	Sylvain Cazimajou était bûcheron chez Dubois. Elle possédait une bicyclette sans marque, en état médiocre.
+435	Mano	Camille	Robust	Camille Mano était patron bûcheron. Il possédait un vélo de marque Robust, en état passable.
+436	Bussière	Georges	Dame	Georges Bussière était sans profession. Il utilisait pour son ravitaillement un vélo de dame sans marque, en état médiocre.
+437	Hazera	Arnaud	Homme	Arnaud Hazera était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+438	Moreno	Argimiro	Terrot2	Argimiro Moreno travaillait à la scierie Cazenave. Il roulait sur un vélo de dame de marque Terrot, en état passable.
+439	Moreno	Louis	Cazenave	Louis Moreno était bûcheron chez Gaillard. Il possédait un vélo de marque Cazenave, en état passable.
+440	Moreno	Ventura	Cazenave	Ventura Moreno était bûcheron chez Gaillard. Il possédait un vélo de marque Cazenave, en état passable.
+441	Moreno	Anita	Cazenave	Anita Moreno était cultivatrice. Elle se déplaçait avec une bicyclette de marque Cazenave, en état passable.
+442	Larché	Lucien	Ravat	Lucien Larché était résinier. Il utilisait pour son travail un vélo de marque Rabat, en état médiocre.
+443	Larché	Léonie	Dame	Léonie Larché était cultivatrice. Elle possédait une bicyclette sans marque, en état médiocre.
+444	Larché	Adrienne	Dame	Adrienne Larché était cultivatrice. Elle possédait une bicyclette sans marque, en état médiocre.
+445	Lamu	Albert	Homme	Albert Lamu était mouleur à la fonderie Destang. Il allait au travail sur un vélo sans marque, en état médiocre. Il était aussi pompier volontaire.
+446	Lamu	Germaine	Dame	Germaine Lamu était cultivatrice. Elle possédait une bicyclette sans marque, en état médiocre.
+447	Duluc	André	Cazenave	André Duluc était cantonnier aux Chemins de fer économiques. Il possédait un vélo de marque Cazenave, en état passable.
+448	Duluc	Geneviève	Cazenave	Geneviève Duluc était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Cazenave, en état passable.
+449	Courbin	André	Atalante1	André Courbin était mouleur chez Cazenave. Il roulait sur un vélo de marque Atalante, en état passable.
+450	Courbin	Marie	Dame	Marie Courbin était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état passable.
+451	Kraetzler	Charles	Homme	Charles Kraetzler était cantonnier au service vicinal. Il possédait un vélo sans marque, usagé.
+452	Kraetzler	Charlotte	Cazenave	Charlotte Kraetzler était cultivatrice. Elle se déplaçait avec une bicyclette de marque Cazenave, en état passable.
+453	Devillers	Joseph	Dame	Joseph Devillers était manoeuvre chez Cazenave. Il roulait sur un vélo de dame sans marque, en état médiocre.
+454	Douaut	Daniel	Cazenave	Daniel Douaut était manoeuvre chez Cazenave. Il roulait sur un vélo de marque Cazenave, en état médiocre.
+455	Duluc	Clément	Homme	Clément Duluc était résinier. Il utilisait pour son travail un vélo sans marque, usagé.
+456	Duluc	Pierre	Cazenave	Pierre Duluc était mécanicien chez Cazenave. Il roulait sur un vélo de marque Cazenave usagé.
+457	Duluc	Jacques	Homme	Jacques Duluc était tourneur chez Cazenave. Il roulait sur un vélo sans marque, usagé.
+458	Mano	Léonce	maçon	Homme
+459	Dumora	Alphonse	Homme	Alphonse Dumora était résinier. Il utilisait pour son travail un vélo sans marque, usagé.
+460	Dumora	Louise	Cazenave	Louise Dumora était cultivatrice. Elle se déplaçait avec une bicyclette de marque Cazenave, usagée.
+461	Braucourt	Henriette	Dame	Henriette Braucourt était mécanicienne. Elle utilisait pour son garagiste une bicyclette sans marque, en état passable.
+462	Péringuey	Théodor	Homme	Théodore Péringuey était propriétaire exploitant. Il utilisait pour son travail un vélo sans marque, en état médiocre. Il était aussi pompier volontaire.
+463	Péringuey	Marie	Elcé	Marie Péringuey était cultivatrice. Elle se déplaçait avec une bicyclette de marque Else, en état passable.
+464	Dufort	Léonce	Homme	Léonce Dufort était résinier. Il utilisait pour son travail un vélo sans marque, en état passable.
+465	Dufort	Léon	Lucifer	Léon Dufort était électricien à la Société minière d'Hostens. Il utilisait un vélo de marque Luxifer, en état passable.
+466	Dufort	Dubroustine	Dame	Dubroustine Dufort était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+467	Gellibert	Auguste	Homme	Auguste Gellibert était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+468	Gellibert	Berthe	Dame	Berthe Gellibert était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque inconnue, en état passable.
+469	Brustis	Louis	Hunter	Louis Brustis était scieur pour l'organisation Todt. Il allait au travail sur un vélo de marque Hunter, en état médiocre.
+470	Brustis	Hubert	Cazenave	Hubert Brustis était mouleur chez Cazenave. Il roulait sur un vélo de marque Cazenave, en état passable.
+471	Brustis	Madeleine	Cazenave	Madeleine Brustis était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Cazenave, en état médiocre.
+472	Désert	Jean	Homme	Jean Désert était ouvrier à la scierie Delage. Il allait au travail sur un vélo sans marque, en état médiocre.
+473	Darriet	Alida	Dame	Alida Darriet était cultivatrice et veuve. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+474	Bordessoules	Gaston	Homme	Gaston Bordessoules était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+475	Bordessoules	Marie	Dame	Marie Bordessoules était cultivatrice. Elle se déplaçait avec une bicyclette sans marque, en état médiocre.
+476	Labarbe	Camilienne	Cazenave	Camilienne Labarbe était garde-barrière aux Chemins de fer économiques. Elle utilisait une bicyclette de marque Cazenave, en état passable.
+477	Boyrie	Madeleine	Dame	Madeleine Boyrie était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+478	Biguerie	Lucie	Dame	Lucie Biguerie était modiste. Elle utilisait pour ses visites aux clientes une bicyclette sans marque, usagée.
+479	Dupuch	Thérèse	Dame	Thérèse Dupuch était coiffeuse. Elle utilisait pour visiter ses clientes une bicyclette sans marque, usagée.
+480	Mora	René	HommeRené Mora était	NULL
+482	Faucouneau	Raymond	Homme	Raymond Faucouneau était ouvrier de scierie chez Cazenave. Il roulait sur un vélo sans marque, usagé.
+483	Douence	Germaine	Cazenave	Germaine Douence était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Cazenave, en état passable.
+484	Bertruc	Louis	Homme	Louis Bertruc était mouleur. Il allait au travail sur un vélo sans marque, en état passable. Il était aussi pompier volontaire.
+485	Gardère	Gaston	Dorillac	Gaston Gardère était maçon. Il se servait d'un vélo de marque Dorillac, en état médiocre.
+486	Téchoueyres	Fernand	Homme	Fernand Téchoueyres était poêlier. Il utilisait pour son travail à domicile un vélo sans marque, en état médiocre.
+487	Garnung	Camille	Cazenave	Camille Garnung était mouleur à la fonderie Destang. Il allait au travail sur un vélo de marque Cazenave, en état médiocre.
+488	Pagan	Yvan	La semeuse	Yvan Pagan était employé chez Cazenave. Il roulait sur un vélo de marque La semeuse, en état passable.
+489	Pagan	Fernande	Dame	Fernande Pagan était cultivatrice et veuve. Elle possédait une bicyclette sans marque, en état médiocre.
+490	Ducos	Laurent	Homme	Laurent Ducos était charpentier. Il possédait un vélo sans marque, usagé.
+491	Miranda	Georgette	Cazenave	Georgette Miranda est déclarée sans profession. Elle se déplaçait avec une bicyclette de marque Cazenave, en état passable.
+492	Dupuch	Etienne	Homme	Etienne Dupuch était tailleur. Il utilisait pour visiter sa clientèle un vélo sans marque, en état passable.
+493	Dupuch	Marie-Louise	Cazenave	Marie-Louise Dupuch était giletière. Elle utilisait pour sa clientèle une bicyclette de marque Cazenave, en état passable.
+494	Deycard	Jean	Homme	Jean Deycard était mouleur à la fonderie Destang. Il allait au travail sur un vélo sans marque, en état médiocre.
+495	Deycard	Sidalie	Cazenave	Sidalie Deycard était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Cazenave, en état passable.
+496	Dupart	Robert	Wonder1	Robert Dupart était résinier. Il utilisait pour son travail un vélo de marque Wonder, en état passable.
+497	Ambach	Jean	Homme	Jean Ambach était instituteur. Il faisait ses commissions avec un vélo de marque Brizon, en état passable.
+498	Sentucq	Elie	Homme	Elie Sentucq était mouleur à la fonderie Destang. Il allait au travail sur un vélo sans marque, en état médiocre. Il était aussi pompier volontaire.
+499	Labarbe	Elie	Homme	Elie Labarbe était fondeur à la fonderie Destang. Il utilisait un vélo sans marque, en état médiocre.
+500	Labarbe	Jacques	Novelty	Jacques Labarbe était écolier à Salles. Il utilisait un vélo de marque Novelty, en état passable.
+501	Biguerie	Léon	Cazenave	Léon Biguerie était mouleur chez Cazenave. Il roulait sur un vélo de marque Cazenave, en état passable. Il était aussi pompier volontaire.
+502	Lalanne	Jean	Rollet	Jean Lalanne était mouleur chez Cazenave. Il roulait sur un vélo de marque Rollet, en état passable. Il était aussi pompier volontaire.
+503	Lalanne	Augusta	Hirondelle1	Augusta Lalanne est déclarée sans profession. Elle utilisait une bicyclette de marque Hirondelle, en état passable.
+504	Lacape	René	Fama	René Lacape était manoeuvre chez Cazenave. Il roulait sur un vélo de marque Fama, en état passable.
+505	Baillet	Jules	Cazenave	Jules Baillet était manoeuvre chez Cazenave. Il roulait sur un vélo de marque Cazenave, en état passable.
+506	Marguerit	Emile	Homme	Emile Marguerit était tuilier à la tuilerie Domecq. Il allait au travail sur un vélo sans marque, en état médiocre.
+507	Duluc	Gaston	Souleyreau	Gaston Duluc était forgeron chez Cazenave. Il roulait sur un vélo de marque Souleyreau, en état médiocre.
+508	Duluc	André	Cazenave	André Duluc était tourneur chez Cazenave. Il roulait sur un vélo de marque Cazenave, en état passable.
+509	Duluc	Emilie	Cazenave	Emilie Duluc était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Cazenave, en état passable.
+510	Dubois	Marcel	Dilecta	Marcel Dubois était mouleur chez Cazenave. Il roulait sur un vélo de marque Dilecta, en état passable.
+511	Ballion	Antoine	Cazenave	Antoine Ballion était mouleur chez Cazenave. Il roulait sur un vélo de marque Cazenave, en état médiocre. Il était aussi pompier volontaire.
+512	Sentucq	Pierre	Cazenave	Pierre Sentucq était mouleur chez Cazenave. Il roulait sur un vélo de marque Cazenave, en état médiocre.
+513	Dantès	Pierre	Cazenave	Pierre Dantès était mécanicien chez Cazenave. Il roulait sur un vélo de marque Cazenave, usagé.
+514	Dupart	Albert	Homme	Albert Dupart était charbonnier. Il possédait un vélo sans marque, usagé. Il était aussi pompier volontaire.
+515	Baillet	Marcel	Chamois	Marcel Baillet était peintre. Il allait au travail sur un vélo de marque Chamois, en état médiocre.
+516	Dubourg	Jean	Terrot1	Jean Dubourg était peintre. Il allait au travail sur un vélo de marque Terrot, en état passable.
+517	Léglise	Ali	Homme	Ali Léglise était muletier à l'exploitation forestière Raba. Il allait au travail sur un vélo de marque inconnue, usagé.
+518	Léglise	Yvette	Dame	Yvette Léglise était ouvrière d'usine à la scierie Delage. Elle allait au travail sur une bicyclette de marque Chamois, en état passable.
+519	Latournerie	Lucien	Cazenave	Lucien Latournerie était résinier. Il utilisait pour son travail un vélo de marque Cazenave, en état médiocre.
+520	Lantrès	André	Homme	André Lantrès était mouleur chez Destang. Il allait au travail sur un vélo sans marque, en état médiocre.
+521	Lefèvre	Victor	Homme	Victor Lefèvre était garde de nuit à la scierie Delage. Il utilisait un vélo sans marque, en état passable.
+522	Dufort	Henriette	Atalante2	Henriette Dufort était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Atalante, en état passable.
+523	Baillet	Maurice	Homme	Maurice Baillet était mouleur chez Destang. Il allait au travail sur un vélo sans marque, en état médiocre.
+524	Baillet	Louise	Dame	Louise Baillet était cultivatrice. Elle se servait d'une bicyclette sans marque, en état médiocre.
+525	Lefèvre	Marguerite	Dame	Marguerite Lefèvre était cultivatrice. Elle possédait une bicyclette sans marque, en état médiocre.
+526	Lesbordes	Madeleine	Cazenave	Madeleine Lesbordes était cultivatrice. Elle se servait d'une bicyclette de marque Cazenave, en état passable.
+527	Prioleau	Pierre	Cazenave	Pierre Prioleau était menuisier. Il utilisait pour son travail un vélo de marque Cazenave, en état passable.
+528	Saugnac	Roger	Homme	Roger Saugnac était mécanicien. Il allait au travail sur un vélo sans marque, en état passable.
+529	Saugnac	Elisabeth	Dame	Elisabeth Saugnac est déclarée sans profession. Elle possédait une bicyclette sans marque, en état passable.
+530	De Fornel	Guy	Terrot2	Guy de Fornel était sans profession. Il utilisait un vélo de course de marque Terrot, en bon état.
+531	De FornelPaulette	Dame	Paulette de Fornel é	NULL
+532	Morin	Lucien	Homme	Lucien Morin était résinier. Il utilisait pour son travail un vélo sans marque, en état médiocre.
+533	Morin	Berthe	Dame	Berthe Morin était cultivatrice. Elle possédait une bicyclette sans marque, en état médiocre.
+536	Maufié	Dorine	Dame	Dorine Maufié était cultivatrice et veuve. Elle possédait une bicyclette sans marque, en état médiocre.
+537	Bertrand	Michel	Homme	Michel Bertrand était mouleur chez Destang. Il allait au travail sur un vélo de marque Saint-Etienne, en état passable. Il était aussi pompier volontaire.
+538	Allin	Germaine	Dame	Germaine Allin, qui était veuve, tenait un hôtel. Elle se déplaçait avec une bicyclette sans marque, en état médiocre.
+539	Dupart	Roger	Cazenave	Roger Dupart était mouleur chez Cazenave. Il roulait sur un vélo de marque Cazenave, en état passable.
+540	Dubois	Lucienne	Cazenave	Lucienne Dubois était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Cazenave, en état médiocre.
+541	Patrouilleau	Gaston	Hirondelle2	Gaston Patrouilleau utilisait pour visiter ses propriétés (à 7 km) un vélo de marque Hirondelle, en état médiocre.
+542	Patrouilleau 	André\tm	Cazenave	André Patrouilleau était ouvrier forestier chez Saugnac. Il allait au travail sur un vélo de marque Cazenave, en état passable.
+543	Taris	André	Cazenave	André Taris était boucher chez Dangieu. Il possédait un vélo de marque Cazenave, en état passable.
+544	Vignolles	Raymonde	Cazenave	Raymonde Vignolles était bonne à tout faire chez Seinlary. Elle utilisait pour le ravitaillement une bicyclette de marque Cazenave, en état passable.
+545	Cardouat	Fernand	Homme	Fernand Cardouat était garde-champêtre. Il utilisait un vélo de marque Feuler?, en état passable.
+546	Vergne	Francelet	Homme	Francelet Vergne était négociant. Il utilisait pour s'occuper de ses affaires et propriétés un vélo sans marque, en état passable.
+547	Darriet	Gilbert	Cazenave	Gilbert Darriet était mouleur chez Destang. Il allait au travail sur un vélo de marque Cazenave, en état passable.
+548	Darriet	Yvonne	Cazenave	Yvonne Darriet était cultivatrice. Elle faisait ses commissions avec une bicyclette de marque Cazenave, en état médiocre.
+549	Labassat	Jeanne	Dame	Jeanne Labassat était ouvrière d'usine chez Cazenave. Elle roulait sur une bicyclette sans marque, en état passable.
+550	Mano	Robert	Cazenave	Robert Mano était ouvrier d'usine chez Cazenave. Il roulait sur un vélo de marque Cazenave, en état passable.
+551	Dubédat	Jeanne	Dame	Jeanne Dubédat, veuve, était ouvrière d'usine chez Seinlary. Elle allait au travail sur une bicyclette sans marque, usagée.
+552	Duluc	Anicet	Cazenave	Anicet Duluc était domestique agricole. Il se servait d'un vélo de marque Cazenave, usagé.
+553	Duluc	Elodie	Dame	Elodie Duluc était cultivatrice et veuve. Elle utilisait pour son ravitaillement une bicyclette sans marque, usagée.
+554	Larumbe	Pierre	Diamant1	Pierre Larumbe était peintre chez Mano. Il allait au travail sur un vélo de marque Diamant, en état médiocre.
+555	Dubourg	Odette	Dame	Odette Dubourg était tailleuse. Elle allait au travail sur une bicyclette sans marque, en état passable.
+556	Dubourg	Louise	Dame	Louise Dubourg était cultivatrice. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+557	Baucou	Aurélie	Terrot1	Aurélien Baucou était chef de chantier. Il se servait d'un vélo de dame de marque Terrot, en état passable.
+558	Duporge	Marie	Dame	Marie Duporge, veuve, est déclarée sans profession. Elle utilisait pour son ravitaillement une bicyclette sans marque, en état médiocre.
+559	Malot	René	La triomphante	René Malot était garde forestier. Il utilisait un vélo de marque La triomphante, en état médiocre.
